@@ -2,7 +2,7 @@
 
 Website for visualizing the shortest path between two points using graph theory algorithms. There are five most widely used graph algos to find shortest path. 
 
-## Graphs Algorithms
+## Graph Algorithms
 
 1. Breadth First Search
 2. Dijkstra's Algorithm
